@@ -1,2 +1,2 @@
 # form-action
-PHP example for NetPrint/
+PHP example for NetPrint
